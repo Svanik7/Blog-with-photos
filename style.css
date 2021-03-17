@@ -1,0 +1,16 @@
+h1{
+    background-color: aliceblue;
+    font-family: fantasy;
+}
+body{
+    background-color: darkgreen;
+    text-align: center;
+}
+.images{
+    height: 250px;
+    width: 250px;
+}
+.plants{
+    height: 250px;
+    width: 250px;
+}
